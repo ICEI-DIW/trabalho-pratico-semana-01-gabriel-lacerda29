@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: gabriel assis carvalho lacerda
+Matricula: 885034
 
 ## Tela de inspeção com navegador
 
+<img src="Captura de tela 2025-02-20 170408.png" alt="">
 
 ## Tela de projeto no Replit
+
+<img src="Captura de tela 2025-02-20 170727.png" alt="">
 
